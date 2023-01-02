@@ -1,0 +1,122 @@
+
+L&T INTERVIEW QUESTIONS ASKED?????
+
+
+1. introduction
+2. What is AUTOSAR?
+3. What are the modules in AUTOSAR?
+4. With Respect to COM what are the Modules you configured?
+5. What is CAN-TP??
+6. Difference between CAN-TP AND CAN?
+7. What is Virtual Function Bus? Explain?
+8. What is stmin?
+9. CAN-TP Explanation Segmentation AND Unsegmentation??
+10. Explain DCM?
+11. Explain each layer with  Configuration parameter in DCM??
+12. What are the service ID'S you used in your project?
+13. NRC Codes You gone Through in your project?
+14. Explain Few NRC'S??
+15. What is Function pointer?
+16. What is constant Function?
+17. What are the configuration tools used in ypur project?
+18. Swap Two Numbers?
+19. Hardware Errors?
+20. Difference between structure and union?
+21. Constant Pointer?
+22. Pointer constant?
+23. Explain about CAN-TP?
+24. Difference between Pointer and Array?
+25. DID Implementation?
+26. Configuration parameter in COM?
+27. Explain TX and Rx flow?
+28. Explain Control Flow?
+29. WHAT IS SHORT RECOVERY(L1) AND LONG RECOVERY(L2)?
+30. What is MDT(Minimum Delay Time)?
+31. synchronization and Asynchronization?
+32. what is datasegment and BSS?
+33. what is start-up code?
+34. what is conditonal compilation?
+35. Macros and functions difference?
+36. difference between C and Embedded C?
+37. why we use Autosar Builder?
+38. if we have array of arr[31] but we want to  use arr[33] what will     happen?
+39. what is 14229, 15765,11898?
+40. what is Autosar? why we need Autosar?
+41. what is code coverage?
+42. Typedef,macros and functions difference?
+43. COM stack explain with respect to 3 signals send as 1 message(all     signal need to send every 100ms)?
+44. COM transfer properties and PDU transmission modes with respect to 3     signals send as 1 message?
+45. Deadline Monitoring?
+46. DCM configuration?
+47. CAN-TP configuration and frames explanation?
+48. Explain bout DEM and configuration?
+49. RTE configuration?
+50. Types of software components and explain?
+51. Port-interfaces?
+52. any problem faced in COM and DIAGNOSTIC configuration?
+53. How to build and How to find bug in generated code?
+54. usage of tools?
+55. volatile,structure and union compilation stages->pre-processor stage?
+56. we have 3 Rx messages and 3 Tx messages how will you do the COM     Configurations.
+57. explain COM Transfer properties.
+58. I have to send a signal at 10ms rate. which transfer property are you     using and in which mode.
+59. Have you heard about Deadline monitoring? can you explain it.
+60. consider no did have been implemented. you have a new DID to     implement which reads the data from memory. what are the     configurations will you do?
+61. What is difference between DID and RID? what the different     configuratuons we have to do for RID?
+62. what are the diffrence between static and generated file?
+63. can you tell me the procedure for opening EB Tresos?
+64. what are the difference between Davinci and EB Tresos?
+65. explain cantp?
+66. explain DEM?
+67. explain software componenets you have used?
+68. what are P Port and R port can you explain and port interfaces. why     you used triggered interface?
+69. whats the use of data Elements
+70. Explain me your Project. whats your day to day work.
+71. I want to transfer 12KB of data. how can you send it.
+72. What are the input documents for COM
+73. what are the ionput documents to Diagnostics and how will you get it?
+75. Have you ever used response on Event?
+76. can you explain req and Response to switch to extended mode.
+77. Whats the value of P2, P2*timer value you have got in our project?
+78. i have sent 10 03 and before ECU Could respond i am sending 10 02.     what will be the response.
+79. how many requests at a time you have configured in your project that    can be processed.
+80. What is Can FD ? does CANTP size increses  with respect to canFD?
+81. where did you execute your project?(place name)
+82. How did you configure autosar diagnistic specification?
+83. who will give you diagnostics requirment? in which format?
+84. who will develop CDD for you?
+85. how do you configure in tool if i give you CDD?
+86. What are all the things you do in EBTresos?
+87. A additional DID is to be added in your project, that DID should 
+    support service 22, 2E and 2F, what are the things you do?
+88. Tell whole steps in autosar project development?
+89. what are the usual MISRA C error you will get?
+90. which microcontroller is used in your project?
+91. what are all the things you configured in your microcontroller  with     respect to BSW side?
+92. what is 11898, 15765, and 14229?
+93. what is CANTP ? where cantp is used in your project?
+94. what is CANFD? where did you use CANFD in your project?
+95. there is service 22, dtaa length is 16 byte, your ECU congigured as     CANFD, where do you read it, does it come as 
+96. CANTP frame or CANFD frame?
+97. Do you route your DID  through cantp?
+98. which ECU used in your project? which modle year was it?
+99. you have mentioned STM32 and RH850 in your resume, what you have done     there?
+100. can you write macro to set, clear, toggle and test the bit in a      data?
+101. if you get requirment the what are the steps you will follow until      product delivery?
+102. did you impliment service 22?
+103. How many opportunity do you have now?
+104. Why did you left previous job?
+105. explain function Pointer
+106. explain storage classes
+107. explain const pointer and pointer const
+108. explain volatiule.
+109. i have declared a variable as static int a in a.c file. how can i      access that variable in b.c file?
+110. explain compilation process
+111. i have to store variable 10 in memory location 1000. what will you      do?
+112. whats the diffrence between structure and union. Where will you use      it?
+113. Why are you using different Union memebers in union. you can use      only which have Larger size in union right?
+ 
+
+
+
+

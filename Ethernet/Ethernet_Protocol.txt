@@ -1,0 +1,35 @@
+>Ehernet is mainly used for- ADAS and HMI.
+  1.Driver Monitoring Camera
+  2.Digital Video Recorder
+  3.Front Looking Camera
+  4. Parking Assistance system
+   5. front,side and read looking Radar/Lidar
+
+>Advantage of Ethernet
+  1.Switch Medium
+  2.Larger messages upto 1500bytes
+   3.Higher bandwidth(100m-1000mbps)
+   4.Speed can be modified.
+    5.full duplex communication
+
+>Power Over Data Line-PODL
+>Media Indipendent Interface-MII
+>Depending upone which type of physical layer we are using based
+   on that we use Suitable MII
+>Types Of MMI's
+  1.Reduced Media-Independent interface-RMII
+  2.Gigabit -GMII
+  3.Reduced gigabit -RGMII
+  4.Serial Gigabit-SGMII
+  5.High serial gigabit -HSGMII
+  6.quad serial gigabit-QSGMIIEh
+  7.10gigabit -XGMII
+
+>IEEE-1722 -AVB protocol
+>Automotic Ethernet Frame formate
+>Ethernet is a Socket or Network based communication protocol
+ Media independent i nterface provides the smooth communication 
+   between the physical and MAC layer
+>In ethernet protocol we are sending and receiving the data in teh formate of PACKETS using IP
+>Comm converts the signal into packets and vice versa
+ 
